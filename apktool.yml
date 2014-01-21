@@ -1,0 +1,13 @@
+version: 1.5.3.f3e50fbc56
+apkFileName: LogsProvider.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '7'
+  targetSdkVersion: '18'
+packageInfo:
+  cur_package: com.sec.android.provider.logsprovider
+  orig_package: com.sec.android.provider.logsprovider
+compressionType: false
